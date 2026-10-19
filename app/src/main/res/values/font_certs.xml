@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>MIIEqDCCApCgAwIBAgIJAXP0J+W1k6WkMA0GCSqGSIb3DQEBCwUAMIGQMQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwNTW91bnRhaW4gVmlldzEQMA4GA1UECgwKR29vZ2xlIEluYyxFBgNVBAsMD0FuZHJvaWQgRGV2ZWxvcGVyMQswCQYDVQQDDAJBUEkxEjAQBgkqhkiG9w0BCQEWAW5hMB4XDTE2MDUxMDIzNDcyNVoXDTI2MDUxMDIzNDcyNVowgZAxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRYwFAYDVQQHDA1Nb3VudGFpbiBWaWV3MQ0wCwYDVQQKDARHb29nbGUxFDASBgNVBAsMC0FuZHJvaWQgU3R1ZGlvMRswGQYDVQQDDBJJbnRlcm5hbCBEZXZlbG9wZXIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCp... [truncated for space, use standard or let AS resolve]</item>
+    </string-array>
+</resources>
